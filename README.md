@@ -165,6 +165,7 @@ python scripts/compare_audio.py
 | If you want to... | Start here... |
 |-------------------|---------------|
 | **Understand the philosophy** | [Conversational Guide to AI Music](docs/Conversational_Guide_to_AI_Music.md) |
+| **Experience it as a song** | [Context Warming Side Quest](artifacts/side_quests/context-warming.md) 🎵 |
 | **Try algorithmic live coding** | [Strudel Examples](examples/strudel/) |
 | **Compare all approaches** | [Algorithmic vs AI vs Context Warming](examples/strudel/COMPARISON.md) |
 | **Learn Suno mechanics** | [Suno Best Practices Guide](docs/Suno_Best_Practices_Guide.md) |
@@ -175,6 +176,7 @@ python scripts/compare_audio.py
 
 ### Related Resources:
 
+- 🎵 [Context Warming Side Quest](artifacts/side_quests/context-warming.md) - Song + Visual Guide + TED Talk synthesis
 - 🎵 [Listen to Audio Examples](ai-music-comparison/data/baseline/) - Suno originals and Bark outputs
 - 📊 [Detailed Analysis Results](ai-music-comparison/results/analysis/comparison_results.md) - Quantitative metrics
 - 🛠️ [Python Scripts](ai-music-comparison/scripts/) - Generation and analysis code
@@ -203,12 +205,14 @@ This project was created for the AI Whisperers community - people who approach A
 ### Presentation Materials
 
 **For the talk:**
+- [AI Music Through Context Warming (PDF)](docs/AI-Music-Through-Context-Warming-20251110.pdf) - Full slide deck
 - [ai-music-comparison/PRESENTATION_SUMMARY.md](ai-music-comparison/PRESENTATION_SUMMARY.md) - 12-minute talk notes
 - [ai-music-comparison/PRESENTATION_CHECKLIST.md](ai-music-comparison/PRESENTATION_CHECKLIST.md) - Day-of setup guide
 - [ai-music-comparison/PRESENTATION_OUTLINE.md](ai-music-comparison/PRESENTATION_OUTLINE.md) - Detailed outline
 
 **For deeper exploration:**
 - [docs/Conversational_Guide_to_AI_Music.md](docs/Conversational_Guide_to_AI_Music.md) - Full methodology
+- [artifacts/side_quests/context-warming.md](artifacts/side_quests/context-warming.md) - Song + Visual Guide + TED Talk
 - [ai-music-comparison/results/analysis/comparison_results.md](ai-music-comparison/results/analysis/comparison_results.md) - Detailed metrics
 
 ### The Philosophy
@@ -489,8 +493,11 @@ The fact that AI helped document AI methodology isn't a contradiction—it's pro
 ## 📋 Recent & Future Additions
 
 **Recently Added:**
+- ✅ `artifacts/side_quests/context-warming.md` - Complete side quest: Song + Visual Guide + 45-min TED Talk
+- ✅ `docs/AI-Music-Through-Context-Warming-20251110.pdf` - Presentation slide deck
 - ✅ `examples/strudel/` - Algorithmic live coding examples showing the spectrum of approaches
 - ✅ Detailed comparison of Algorithmic vs AI vs Context Warming methods
+- ✅ Related explorations linking to AlaskaButter & music_autovis
 
 **Coming Soon:**
 - 📖 Context warming conversation transcripts and resulting songs
