@@ -1,0 +1,69 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+venv-*/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Jupyter
+.ipynb_checkpoints
+
+# Project-specific
+.cache/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Audio working files (keep committed audio, ignore temp)
+*.tmp.wav
+*.temp.wav
+
+# Model checkpoints (large files)
+*.ckpt
+*.pt
+*.pth
+*.bin
+models/
+
+# Analysis outputs (keep results/, ignore temp analysis)
+temp_analysis/
+scratch/
