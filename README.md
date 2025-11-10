@@ -182,6 +182,20 @@ python scripts/compare_audio.py
 
 ---
 
+## 🌊 Related Explorations
+
+This repository documents one thread of exploration: creating music through algorithms and AI.
+
+We're also exploring related questions elsewhere:
+- **[AlaskaButter](https://alaskabutter.com)** - Can AI intelligently curate algorithmic visuals to match music? (Live web visualizer)
+- **music_autovis** - Can production pipelines handle 11,000+ GPU shaders with self-healing architecture? (Video rendering system)
+
+Same curiosity. Different questions. Connected by practice, not by plan.
+
+We're on the journey. The patterns emerge on their own. 🌊
+
+---
+
 ## 🎤 For AI Whisperers Buenos Aires
 
 This project was created for the AI Whisperers community - people who approach AI with "gentle fascination" rather than domination.
