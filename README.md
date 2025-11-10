@@ -63,6 +63,24 @@ ai-music-context/
 
 ---
 
+## 🎼 The Spectrum of Computer-Assisted Music
+
+Before diving into our research and methodology, it's helpful to understand the **full spectrum** of approaches to creating music with computers:
+
+### Three Approaches:
+
+| Approach | Philosophy | Best For |
+|----------|-----------|----------|
+| **[Algorithmic (Strudel)](examples/strudel/)** | Code as instrument | Precise control, live performance |
+| **AI Generation (Suno/Bark)** | Model-guided creation | Speed, full production |
+| **[Context Warming](docs/Conversational_Guide_to_AI_Music.md)** | Conversational emergence | Authentic expression |
+
+**All three are valid.** This repository explores the AI and context warming approaches, with examples of algorithmic live coding for context.
+
+➡️ **[See detailed comparison](examples/strudel/COMPARISON.md)** | **[Try Strudel examples](examples/strudel/simple-patterns.js)**
+
+---
+
 ## 🌊 Part 2: Context Warming Methodology
 
 **The Core Insight**: Generic prompts produce generic songs because they skip the essential step of **cultivating emotional and philosophical context**.
@@ -147,6 +165,8 @@ python scripts/compare_audio.py
 | If you want to... | Start here... |
 |-------------------|---------------|
 | **Understand the philosophy** | [Conversational Guide to AI Music](docs/Conversational_Guide_to_AI_Music.md) |
+| **Try algorithmic live coding** | [Strudel Examples](examples/strudel/) |
+| **Compare all approaches** | [Algorithmic vs AI vs Context Warming](examples/strudel/COMPARISON.md) |
 | **Learn Suno mechanics** | [Suno Best Practices Guide](docs/Suno_Best_Practices_Guide.md) |
 | **Get comprehensive technical reference** | [Suno Master Guide](docs/Suno_Master_Guide.md) |
 | **See the research evidence** | [Context Warming Novelty Research](docs/Context_Warming_Novelty_Research.md) |
@@ -158,6 +178,7 @@ python scripts/compare_audio.py
 - 🎵 [Listen to Audio Examples](ai-music-comparison/data/baseline/) - Suno originals and Bark outputs
 - 📊 [Detailed Analysis Results](ai-music-comparison/results/analysis/comparison_results.md) - Quantitative metrics
 - 🛠️ [Python Scripts](ai-music-comparison/scripts/) - Generation and analysis code
+- 💻 [Strudel Code Examples](examples/strudel/simple-patterns.js) - Algorithmic patterns you can try
 
 ---
 
@@ -451,14 +472,18 @@ The fact that AI helped document AI methodology isn't a contradiction—it's pro
 
 ---
 
-## 📋 Future Additions
+## 📋 Recent & Future Additions
 
-We're planning to add:
-- 📖 `examples/` directory with conversation transcripts and songs
-- 🎓 `workshop/` materials for teaching context warming
-- 📊 Quantitative studies comparing approaches
-- 🎬 Video demonstrations of live context warming
-- 🌍 Case studies from other creative domains
+**Recently Added:**
+- ✅ `examples/strudel/` - Algorithmic live coding examples showing the spectrum of approaches
+- ✅ Detailed comparison of Algorithmic vs AI vs Context Warming methods
+
+**Coming Soon:**
+- 📖 Context warming conversation transcripts and resulting songs
+- 🎓 Workshop materials for teaching context warming
+- 📊 Quantitative studies comparing context warming vs. prompt engineering
+- 🎬 Video demonstrations of live context warming sessions
+- 🌍 Case studies from other creative domains (writing, art, code)
 
 **Status**: ✅ Complete for presentation • 🌱 Growing as living document
 **Timeline**: 4 days research + ongoing methodology development
