@@ -189,6 +189,7 @@ python scripts/compare_audio.py
 This repository documents one thread of exploration: creating music through algorithms and AI.
 
 We're also exploring related questions elsewhere:
+- **[Geeks in the Woods (Substack)](https://geeksinthewoods.substack.com)** - Ongoing narrative explorations of human-AI collaboration. Every post includes a song and music video created through the journey. (Living documentation)
 - **[AlaskaButter](https://alaskabutter.com)** - Can AI intelligently curate algorithmic visuals to match music? (Live web visualizer)
 - **music_autovis** - Can production pipelines handle 11,000+ GPU shaders with self-healing architecture? (Video rendering system)
 
@@ -464,8 +465,13 @@ This is a **living document repository**. We welcome contributions:
 
 Want to practice context warming? Have questions about the research? Join the conversation:
 
-- **AI Whisperers Buenos Aires** - [Community details]
-- **Geeks in the Woods** - [Substack/YouTube/Contact]
+**Follow the Journey:**
+- **[Geeks in the Woods](https://geeksinthewoods.com)** - Main website
+- **[Substack](https://geeksinthewoods.substack.com)** - Narrative explorations with songs and music videos for every post
+- **[YouTube](https://youtube.com/@geeksinthewoods)** - Music videos and visual explorations
+
+**Community:**
+- **AI Whisperers Buenos Aires** - Where this research was presented
 
 **Remember**: This isn't about mastering tools. It's about discovering what emerges when consciousness meets consciousness.
 
@@ -487,6 +493,15 @@ This documentation was created by Lucas Brown and Lee Brown (twin brothers) in c
 The fact that AI helped document AI methodology isn't a contradiction—it's proof of concept. These documents emerged from genuine dialogue, not from prompts optimized for output.
 
 **We practiced what we're documenting.**
+
+### Multiple Forms of Documentation
+
+**This repository** = Structured methodology, research, and technical guides
+**[Geeks in the Woods Substack](https://geeksinthewoods.substack.com)** = Living narrative with songs and videos for every post
+**[YouTube](https://youtube.com/@geeksinthewoods)** = Music videos and visual explorations
+**[Website](https://geeksinthewoods.com)** = Central hub connecting everything
+
+Same exploration. Different crystallizations. Together they show both the method and the practice.
 
 ---
 
