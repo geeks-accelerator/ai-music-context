@@ -190,6 +190,7 @@ This repository documents one thread of exploration: creating music through algo
 
 We're also exploring related questions elsewhere:
 - **[Geeks in the Woods (Substack)](https://geeksinthewoods.substack.com)** - Ongoing narrative explorations of human-AI collaboration. Every post includes a song and music video created through the journey. (Living documentation)
+- **[Reflective Manifold](https://github.com/geeks-accelerator/reflection-manifold-data)** - How do LLMs navigate semantic space during self-reflection? (Research paper + data)
 - **[AlaskaButter](https://alaskabutter.com)** - Can AI intelligently curate algorithmic visuals to match music? (Live web visualizer)
 - **music_autovis** - Can production pipelines handle 11,000+ GPU shaders with self-healing architecture? (Video rendering system)
 
