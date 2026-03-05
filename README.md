@@ -190,6 +190,8 @@ This repository documents one thread of exploration: creating music through algo
 
 We're also exploring related questions elsewhere:
 - **[Geeks in the Woods (Substack)](https://geeksinthewoods.substack.com)** - Ongoing narrative explorations of human-AI collaboration. Every post includes a song and music video created through the journey. (Living documentation)
+- **[NEON-SOUL](https://github.com/live-neon/neon-soul)** - Soul synthesis for AI agents. If context warming creates authentic music, NEON-SOUL creates authentic AI identity through the same principle: depth over speed, emergence over optimization.
+- **[Live Neon Skills](https://github.com/live-neon/skills)** - Principle extraction tools. The essence-distiller skill finds "what survives any rephrasing" - useful for crystallizing context warming conversations.
 - **[Reflective Manifold](https://github.com/geeks-accelerator/reflection-manifold-data)** - How do LLMs navigate semantic space during self-reflection? (Research paper + data)
 - **[AlaskaButter](https://alaskabutter.com)** - Can AI intelligently curate algorithmic visuals to match music? (Live web visualizer)
 - **music_autovis** - Can production pipelines handle 11,000+ GPU shaders with self-healing architecture? (Video rendering system)
